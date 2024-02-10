@@ -6,8 +6,8 @@ public class calculator1{
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
 
-"    System.out.println("Enter first number:");
-"    float num1 = in.nextFloat();
+    System.out.println("Enter first number:");
+   float num1 = in.nextFloat();
 
     System.out.println("Enter second number:");
     float num2 = in.nextFloat();
